@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Store-App/static/css/main.832ac281.css",
-    "main.js": "/Store-App/static/js/main.f3524404.js",
+    "main.js": "/Store-App/static/js/main.b98a29e4.js",
     "static/media/fa-solid-900.ttf": "/Store-App/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/fa-brands-400.ttf": "/Store-App/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
     "static/media/fa-solid-900.woff2": "/Store-App/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
@@ -17,10 +17,10 @@
     "static/media/fa-v4compatibility.woff2": "/Store-App/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/Store-App/index.html",
     "main.832ac281.css.map": "/Store-App/static/css/main.832ac281.css.map",
-    "main.f3524404.js.map": "/Store-App/static/js/main.f3524404.js.map"
+    "main.b98a29e4.js.map": "/Store-App/static/js/main.b98a29e4.js.map"
   },
   "entrypoints": [
     "static/css/main.832ac281.css",
-    "static/js/main.f3524404.js"
+    "static/js/main.b98a29e4.js"
   ]
 }
