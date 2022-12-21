@@ -11,7 +11,7 @@ export default function Navbar() {
         <div className="container">
           <Link
             className="navbar-brand fw-bold d-flex align-items-center fw-bold fs-3"
-            to=""
+            to="home"
           >
             <img src={logo} className="logo me-2 mb-2 " alt="logo"></img> Store
           </Link>
@@ -32,7 +32,7 @@ export default function Navbar() {
           >
             <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
               <li className="nav-item me-3">
-                <Link className="nav-link" aria-current="page" to="">
+                <Link className="nav-link" aria-current="page" to="home">
                   Home
                 </Link>
               </li>

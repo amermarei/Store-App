@@ -17,7 +17,7 @@ import { store } from "./redux/store";
 let routers = createBrowserRouter([
   {
     path: "/", element: <Layout />, children: [
-      { index: true, element: <Home /> },
+      { path: "home", element: <Home /> },
       { path: "cart", element: <Cart /> },
       { path: "Details/:id", element: <Details /> },
       { path: "category/:type", element: <Categories /> },
